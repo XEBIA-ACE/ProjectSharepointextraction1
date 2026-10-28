@@ -1,0 +1,842 @@
+[
+  {
+    "id": "P-1001",
+    "name": "Apple iPhone 15 Pro 128GB",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "description": "Titanium smartphone with A17 Pro chip and 48MP camera.",
+    "price": 999.0,
+    "tags": [
+      "phone",
+      "ios",
+      "5g"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1002",
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "description": "Android flagship with S Pen and 200MP camera.",
+    "price": 1199.0,
+    "tags": [
+      "phone",
+      "android",
+      "5g"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1003",
+    "name": "Google Pixel 8",
+    "brand": "Google",
+    "category": "Smartphones",
+    "description": "Compact Android phone with Tensor G3 and Magic Eraser.",
+    "price": 699.0,
+    "tags": [
+      "phone",
+      "android"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1004",
+    "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+    "brand": "Sony",
+    "category": "Headphones",
+    "description": "Industry-leading noise cancellation with 30-hour battery.",
+    "price": 399.0,
+    "tags": [
+      "bluetooth",
+      "over-ear",
+      "anc"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1005",
+    "name": "Apple AirPods Pro (2nd Generation)",
+    "brand": "Apple",
+    "category": "Headphones",
+    "description": "In-ear wireless earbuds with active noise cancellation and USB-C case.",
+    "price": 249.0,
+    "tags": [
+      "earbuds",
+      "bluetooth",
+      "anc"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1006",
+    "name": "Bose QuietComfort Earbuds II",
+    "brand": "Bose",
+    "category": "Headphones",
+    "description": "True wireless earbuds with personalised noise cancelling.",
+    "price": 279.0,
+    "tags": [
+      "earbuds",
+      "bluetooth",
+      "anc"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1007",
+    "name": "JBL Flip 6 Portable Bluetooth Speaker",
+    "brand": "JBL",
+    "category": "Speakers",
+    "description": "Waterproof portable speaker with bold sound.",
+    "price": 129.0,
+    "tags": [
+      "waterproof",
+      "portable"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1008",
+    "name": "Sonos Era 100 Smart Speaker",
+    "brand": "Sonos",
+    "category": "Speakers",
+    "description": "Compact smart speaker with stereo sound and voice control.",
+    "price": 249.0,
+    "tags": [
+      "wifi",
+      "alexa"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1009",
+    "name": "Dell XPS 13 Laptop",
+    "brand": "Dell",
+    "category": "Laptops",
+    "description": "13.4-inch ultrabook with Intel Core Ultra processor.",
+    "price": 1099.0,
+    "tags": [
+      "notebook",
+      "ultrabook",
+      "windows"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1010",
+    "name": "Apple MacBook Air 13-inch M3",
+    "brand": "Apple",
+    "category": "Laptops",
+    "description": "Thin and light laptop with M3 chip and all-day battery life.",
+    "price": 1099.0,
+    "tags": [
+      "notebook",
+      "macos"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1011",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 12",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "description": "Business laptop with carbon-fibre chassis.",
+    "price": 1649.0,
+    "tags": [
+      "notebook",
+      "business",
+      "windows"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1012",
+    "name": "ASUS ROG Strix G16 Gaming Laptop",
+    "brand": "ASUS",
+    "category": "Laptops",
+    "description": "Gaming laptop with GeForce RTX 4070 graphics.",
+    "price": 1499.0,
+    "tags": [
+      "notebook",
+      "gaming",
+      "rtx"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1013",
+    "name": "Apple iPad Air 11-inch",
+    "brand": "Apple",
+    "category": "Tablets",
+    "description": "Tablet with M2 chip and Liquid Retina display.",
+    "price": 599.0,
+    "tags": [
+      "tablet",
+      "ipados"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1014",
+    "name": "Samsung Galaxy Tab S9",
+    "brand": "Samsung",
+    "category": "Tablets",
+    "description": "Android tablet with AMOLED display and S Pen included.",
+    "price": 799.0,
+    "tags": [
+      "tablet",
+      "android"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1015",
+    "name": "Amazon Kindle Paperwhite",
+    "brand": "Amazon",
+    "category": "E-Readers",
+    "description": "Waterproof e-reader with 6.8-inch glare-free display.",
+    "price": 149.0,
+    "tags": [
+      "ebook",
+      "reader"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1016",
+    "name": "LG C3 55-inch 4K OLED TV",
+    "brand": "LG",
+    "category": "Televisions",
+    "description": "55 inch OLED television with self-lit pixels and webOS.",
+    "price": 1399.0,
+    "tags": [
+      "tv",
+      "oled",
+      "smart tv"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1017",
+    "name": "Samsung 65-inch QLED 4K Smart TV",
+    "brand": "Samsung",
+    "category": "Televisions",
+    "description": "65 inch Quantum Dot television with HDR.",
+    "price": 1199.0,
+    "tags": [
+      "tv",
+      "qled",
+      "smart tv"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1018",
+    "name": "Sony PlayStation 5 Console",
+    "brand": "Sony",
+    "category": "Gaming",
+    "description": "Next-gen gaming console with ultra-high speed SSD.",
+    "price": 499.0,
+    "tags": [
+      "ps5",
+      "console"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1019",
+    "name": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "category": "Gaming",
+    "description": "Hybrid gaming console with 7-inch OLED screen.",
+    "price": 349.0,
+    "tags": [
+      "console",
+      "handheld"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1020",
+    "name": "Microsoft Xbox Series X",
+    "brand": "Microsoft",
+    "category": "Gaming",
+    "description": "Most powerful Xbox with 4K gaming at up to 120 fps.",
+    "price": 499.0,
+    "tags": [
+      "console",
+      "xbox"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1021",
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "Computer Accessories",
+    "description": "Ergonomic performance mouse with quiet clicks.",
+    "price": 99.0,
+    "tags": [
+      "mouse",
+      "bluetooth",
+      "ergonomic"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1022",
+    "name": "Keychron K2 Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "Computer Accessories",
+    "description": "Compact wireless mechanical keyboard for Mac and Windows.",
+    "price": 89.0,
+    "tags": [
+      "keyboard",
+      "bluetooth",
+      "mechanical"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1023",
+    "name": "Samsung T7 Portable SSD 1TB",
+    "brand": "Samsung",
+    "category": "Storage",
+    "description": "Portable solid state drive with USB 3.2 transfer speeds.",
+    "price": 109.0,
+    "tags": [
+      "ssd",
+      "usb-c",
+      "external drive"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1024",
+    "name": "SanDisk Ultra 128GB microSD Card",
+    "brand": "SanDisk",
+    "category": "Storage",
+    "description": "MicroSDXC memory card for phones and cameras.",
+    "price": 19.0,
+    "tags": [
+      "memory card",
+      "microsd"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1025",
+    "name": "Canon EOS R50 Mirrorless Camera",
+    "brand": "Canon",
+    "category": "Cameras",
+    "description": "Lightweight mirrorless camera for creators.",
+    "price": 679.0,
+    "tags": [
+      "mirrorless",
+      "camera",
+      "4k"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1026",
+    "name": "GoPro HERO12 Black Action Camera",
+    "brand": "GoPro",
+    "category": "Cameras",
+    "description": "Waterproof action camera with HyperSmooth stabilisation.",
+    "price": 399.0,
+    "tags": [
+      "action cam",
+      "waterproof"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1027",
+    "name": "Garmin Forerunner 265 GPS Running Watch",
+    "brand": "Garmin",
+    "category": "Wearables",
+    "description": "Running smartwatch with AMOLED display and training readiness.",
+    "price": 449.0,
+    "tags": [
+      "smartwatch",
+      "gps",
+      "fitness"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1028",
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "Wearables",
+    "description": "Smartwatch with double tap gesture and blood oxygen sensor.",
+    "price": 399.0,
+    "tags": [
+      "smartwatch",
+      "fitness"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1029",
+    "name": "Fitbit Charge 6 Fitness Tracker",
+    "brand": "Fitbit",
+    "category": "Wearables",
+    "description": "Fitness tracker with built-in GPS and Google apps.",
+    "price": 159.0,
+    "tags": [
+      "fitness tracker",
+      "heart rate"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1030",
+    "name": "Nike Air Zoom Pegasus 40 Running Shoes",
+    "brand": "Nike",
+    "category": "Footwear",
+    "description": "Responsive road running shoes for everyday training.",
+    "price": 130.0,
+    "tags": [
+      "sneakers",
+      "running"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1031",
+    "name": "Adidas Ultraboost Light Running Shoes",
+    "brand": "Adidas",
+    "category": "Footwear",
+    "description": "Lightweight running shoes with Boost cushioning.",
+    "price": 190.0,
+    "tags": [
+      "sneakers",
+      "running"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1032",
+    "name": "Dr. Martens 1460 Leather Boots",
+    "brand": "Dr. Martens",
+    "category": "Footwear",
+    "description": "Classic 8-eye lace-up leather boots.",
+    "price": 170.0,
+    "tags": [
+      "boots",
+      "leather"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1033",
+    "name": "Birkenstock Arizona Sandals",
+    "brand": "Birkenstock",
+    "category": "Footwear",
+    "description": "Two-strap sandals with contoured cork footbed.",
+    "price": 110.0,
+    "tags": [
+      "sandals",
+      "cork"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1034",
+    "name": "Levi's 501 Original Fit Jeans",
+    "brand": "Levi's",
+    "category": "Clothing",
+    "description": "Iconic straight-leg button-fly denim jeans.",
+    "price": 79.0,
+    "tags": [
+      "denim",
+      "jeans"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1035",
+    "name": "Uniqlo Supima Cotton Crew Neck T-Shirt",
+    "brand": "Uniqlo",
+    "category": "Clothing",
+    "description": "Soft crew neck t-shirt made from Supima cotton.",
+    "price": 15.0,
+    "tags": [
+      "tee",
+      "cotton"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1036",
+    "name": "The North Face Nuptse Down Jacket",
+    "brand": "The North Face",
+    "category": "Clothing",
+    "description": "Retro puffer jacket with 700-fill goose down.",
+    "price": 320.0,
+    "tags": [
+      "jacket",
+      "puffer",
+      "winter"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1037",
+    "name": "Patagonia Better Sweater Fleece Jacket",
+    "brand": "Patagonia",
+    "category": "Clothing",
+    "description": "Sweater-knit fleece jacket made with recycled polyester.",
+    "price": 149.0,
+    "tags": [
+      "fleece",
+      "jacket"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1038",
+    "name": "Ray-Ban Wayfarer Classic Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "Accessories",
+    "description": "Iconic sunglasses with polarized lenses.",
+    "price": 171.0,
+    "tags": [
+      "sunglasses",
+      "eyewear"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1039",
+    "name": "Herschel Little America Backpack",
+    "brand": "Herschel",
+    "category": "Bags",
+    "description": "Mountaineering-inspired backpack with padded laptop sleeve.",
+    "price": 110.0,
+    "tags": [
+      "backpack",
+      "laptop bag"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1040",
+    "name": "Samsonite Freeform Hardside Carry-On Luggage",
+    "brand": "Samsonite",
+    "category": "Bags",
+    "description": "Lightweight hardside spinner suitcase.",
+    "price": 199.0,
+    "tags": [
+      "suitcase",
+      "luggage",
+      "travel"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1041",
+    "name": "Instant Pot Duo 7-in-1 Pressure Cooker",
+    "brand": "Instant Pot",
+    "category": "Kitchen",
+    "description": "6 quart electric pressure cooker, slow cooker and rice cooker.",
+    "price": 99.0,
+    "tags": [
+      "pressure cooker",
+      "slow cooker",
+      "multicooker"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1042",
+    "name": "Ninja AF101 Air Fryer",
+    "brand": "Ninja",
+    "category": "Kitchen",
+    "description": "4 quart air fryer that crisps with little to no oil.",
+    "price": 99.0,
+    "tags": [
+      "air fryer"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1043",
+    "name": "KitchenAid Artisan Stand Mixer",
+    "brand": "KitchenAid",
+    "category": "Kitchen",
+    "description": "5 quart tilt-head stand mixer with 10 speeds.",
+    "price": 449.0,
+    "tags": [
+      "mixer",
+      "baking"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1044",
+    "name": "Nespresso Vertuo Coffee Machine",
+    "brand": "Nespresso",
+    "category": "Kitchen",
+    "description": "Single-serve coffee and espresso machine.",
+    "price": 179.0,
+    "tags": [
+      "coffee maker",
+      "espresso"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1045",
+    "name": "Breville Barista Express Espresso Machine",
+    "brand": "Breville",
+    "category": "Kitchen",
+    "description": "Espresso machine with integrated conical burr grinder.",
+    "price": 699.0,
+    "tags": [
+      "coffee maker",
+      "espresso",
+      "grinder"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1046",
+    "name": "Vitamix 5200 Blender",
+    "brand": "Vitamix",
+    "category": "Kitchen",
+    "description": "Professional-grade blender with variable speed control.",
+    "price": 449.0,
+    "tags": [
+      "blender",
+      "smoothie"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1047",
+    "name": "Le Creuset Signature Cast Iron Dutch Oven",
+    "brand": "Le Creuset",
+    "category": "Cookware",
+    "description": "Enamelled cast iron round dutch oven, 5.5 quart.",
+    "price": 420.0,
+    "tags": [
+      "dutch oven",
+      "cast iron",
+      "pot"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1048",
+    "name": "Lodge 12-inch Cast Iron Skillet",
+    "brand": "Lodge",
+    "category": "Cookware",
+    "description": "Pre-seasoned cast iron skillet.",
+    "price": 35.0,
+    "tags": [
+      "frying pan",
+      "cast iron"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1049",
+    "name": "Dyson V15 Detect Cordless Vacuum",
+    "brand": "Dyson",
+    "category": "Home Appliances",
+    "description": "Cordless stick vacuum with laser dust detection.",
+    "price": 749.0,
+    "tags": [
+      "vacuum cleaner",
+      "cordless"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1050",
+    "name": "iRobot Roomba j7+ Robot Vacuum",
+    "brand": "iRobot",
+    "category": "Home Appliances",
+    "description": "Self-emptying robot vacuum that avoids obstacles.",
+    "price": 599.0,
+    "tags": [
+      "vacuum cleaner",
+      "robot"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1051",
+    "name": "Philips Hue White and Color Starter Kit",
+    "brand": "Philips",
+    "category": "Smart Home",
+    "description": "Smart LED light bulbs with bridge.",
+    "price": 199.0,
+    "tags": [
+      "smart bulbs",
+      "lighting"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1052",
+    "name": "Google Nest Learning Thermostat",
+    "brand": "Google",
+    "category": "Smart Home",
+    "description": "Smart thermostat that learns your schedule.",
+    "price": 249.0,
+    "tags": [
+      "thermostat",
+      "energy"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1053",
+    "name": "Ring Video Doorbell 4",
+    "brand": "Ring",
+    "category": "Smart Home",
+    "description": "Video doorbell with colour pre-roll and motion alerts.",
+    "price": 199.0,
+    "tags": [
+      "doorbell",
+      "security camera"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1054",
+    "name": "Yeti Rambler 20 oz Tumbler",
+    "brand": "Yeti",
+    "category": "Outdoor",
+    "description": "Stainless steel vacuum-insulated tumbler.",
+    "price": 35.0,
+    "tags": [
+      "tumbler",
+      "insulated",
+      "mug"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1055",
+    "name": "Coleman Sundome 4-Person Camping Tent",
+    "brand": "Coleman",
+    "category": "Outdoor",
+    "description": "Dome tent for four people with weatherproof rainfly.",
+    "price": 99.0,
+    "tags": [
+      "tent",
+      "camping"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1056",
+    "name": "Hydro Flask 32 oz Water Bottle",
+    "brand": "Hydro Flask",
+    "category": "Outdoor",
+    "description": "Wide mouth insulated stainless steel water bottle.",
+    "price": 44.0,
+    "tags": [
+      "water bottle",
+      "insulated"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1057",
+    "name": "Manduka PRO Yoga Mat",
+    "brand": "Manduka",
+    "category": "Fitness",
+    "description": "High-density yoga mat with lifetime guarantee.",
+    "price": 129.0,
+    "tags": [
+      "yoga",
+      "exercise mat"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1058",
+    "name": "Bowflex SelectTech 552 Adjustable Dumbbells",
+    "brand": "Bowflex",
+    "category": "Fitness",
+    "description": "Adjustable dumbbells from 5 to 52.5 pounds.",
+    "price": 429.0,
+    "tags": [
+      "dumbbells",
+      "weights",
+      "strength"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1059",
+    "name": "Crème Brûlée Scented Candle",
+    "brand": "Bath & Body Works",
+    "category": "Home Decor",
+    "description": "Three-wick candle with caramelised vanilla fragrance.",
+    "price": 26.0,
+    "tags": [
+      "candle",
+      "fragrance"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1060",
+    "name": "LEGO Star Wars Millennium Falcon",
+    "brand": "LEGO",
+    "category": "Toys",
+    "description": "Buildable Millennium Falcon starship model.",
+    "price": 169.0,
+    "tags": [
+      "building set",
+      "star wars"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1061",
+    "name": "Café Bustelo Espresso Ground Coffee",
+    "brand": "Café Bustelo",
+    "category": "Grocery",
+    "description": "Dark roast espresso-style ground coffee, 10 oz.",
+    "price": 6.0,
+    "tags": [
+      "coffee",
+      "espresso"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1062",
+    "name": "Moleskine Classic Hardcover Notebook",
+    "brand": "Moleskine",
+    "category": "Stationery",
+    "description": "Large ruled hardcover notebook.",
+    "price": 22.0,
+    "tags": [
+      "journal",
+      "notebook"
+    ],
+    "active": true
+  },
+  {
+    "id": "P-1063",
+    "name": "Apple iPhone 12 64GB (Discontinued)",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "description": "Discontinued model no longer sold.",
+    "price": 499.0,
+    "tags": [
+      "phone",
+      "ios"
+    ],
+    "active": false
+  }
+]

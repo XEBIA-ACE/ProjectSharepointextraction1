@@ -1,0 +1,506 @@
+[
+  {
+    "query": "iphone 15 pro",
+    "relevantProductIds": [
+      "P-1001"
+    ]
+  },
+  {
+    "query": "iPhone",
+    "relevantProductIds": [
+      "P-1001"
+    ]
+  },
+  {
+    "query": "galaxy s24",
+    "relevantProductIds": [
+      "P-1002"
+    ]
+  },
+  {
+    "query": "pixel 8",
+    "relevantProductIds": [
+      "P-1003"
+    ]
+  },
+  {
+    "query": "sony headphones",
+    "relevantProductIds": [
+      "P-1004"
+    ]
+  },
+  {
+    "query": "noise cancelling headphones",
+    "relevantProductIds": [
+      "P-1004",
+      "P-1005",
+      "P-1006"
+    ]
+  },
+  {
+    "query": "airpods",
+    "relevantProductIds": [
+      "P-1005"
+    ]
+  },
+  {
+    "query": "bose earbuds",
+    "relevantProductIds": [
+      "P-1006"
+    ]
+  },
+  {
+    "query": "bluetooth speaker",
+    "relevantProductIds": [
+      "P-1007",
+      "P-1008"
+    ]
+  },
+  {
+    "query": "jbl flip",
+    "relevantProductIds": [
+      "P-1007"
+    ]
+  },
+  {
+    "query": "sonos",
+    "relevantProductIds": [
+      "P-1008"
+    ]
+  },
+  {
+    "query": "dell xps",
+    "relevantProductIds": [
+      "P-1009"
+    ]
+  },
+  {
+    "query": "macbook air",
+    "relevantProductIds": [
+      "P-1010"
+    ]
+  },
+  {
+    "query": "thinkpad",
+    "relevantProductIds": [
+      "P-1011"
+    ]
+  },
+  {
+    "query": "gaming laptop",
+    "relevantProductIds": [
+      "P-1012"
+    ]
+  },
+  {
+    "query": "ipad",
+    "relevantProductIds": [
+      "P-1013"
+    ]
+  },
+  {
+    "query": "galaxy tab",
+    "relevantProductIds": [
+      "P-1014"
+    ]
+  },
+  {
+    "query": "kindle",
+    "relevantProductIds": [
+      "P-1015"
+    ]
+  },
+  {
+    "query": "oled tv",
+    "relevantProductIds": [
+      "P-1016"
+    ]
+  },
+  {
+    "query": "65 inch tv",
+    "relevantProductIds": [
+      "P-1017"
+    ]
+  },
+  {
+    "query": "playstation 5",
+    "relevantProductIds": [
+      "P-1018"
+    ]
+  },
+  {
+    "query": "nintendo switch",
+    "relevantProductIds": [
+      "P-1019"
+    ]
+  },
+  {
+    "query": "xbox",
+    "relevantProductIds": [
+      "P-1020"
+    ]
+  },
+  {
+    "query": "wireless mouse",
+    "relevantProductIds": [
+      "P-1021"
+    ]
+  },
+  {
+    "query": "mechanical keyboard",
+    "relevantProductIds": [
+      "P-1022"
+    ]
+  },
+  {
+    "query": "portable ssd",
+    "relevantProductIds": [
+      "P-1023"
+    ]
+  },
+  {
+    "query": "microsd card",
+    "relevantProductIds": [
+      "P-1024"
+    ]
+  },
+  {
+    "query": "mirrorless camera",
+    "relevantProductIds": [
+      "P-1025"
+    ]
+  },
+  {
+    "query": "gopro",
+    "relevantProductIds": [
+      "P-1026"
+    ]
+  },
+  {
+    "query": "running watch",
+    "relevantProductIds": [
+      "P-1027"
+    ]
+  },
+  {
+    "query": "apple watch",
+    "relevantProductIds": [
+      "P-1028"
+    ]
+  },
+  {
+    "query": "fitness tracker",
+    "relevantProductIds": [
+      "P-1029"
+    ]
+  },
+  {
+    "query": "running shoes",
+    "relevantProductIds": [
+      "P-1030",
+      "P-1031"
+    ]
+  },
+  {
+    "query": "nike pegasus",
+    "relevantProductIds": [
+      "P-1030"
+    ]
+  },
+  {
+    "query": "ultraboost",
+    "relevantProductIds": [
+      "P-1031"
+    ]
+  },
+  {
+    "query": "leather boots",
+    "relevantProductIds": [
+      "P-1032"
+    ]
+  },
+  {
+    "query": "sandals",
+    "relevantProductIds": [
+      "P-1033"
+    ]
+  },
+  {
+    "query": "levis jeans",
+    "relevantProductIds": [
+      "P-1034"
+    ]
+  },
+  {
+    "query": "tshirt",
+    "relevantProductIds": [
+      "P-1035"
+    ]
+  },
+  {
+    "query": "t-shirt",
+    "relevantProductIds": [
+      "P-1035"
+    ]
+  },
+  {
+    "query": "down jacket",
+    "relevantProductIds": [
+      "P-1036"
+    ]
+  },
+  {
+    "query": "fleece jacket",
+    "relevantProductIds": [
+      "P-1037"
+    ]
+  },
+  {
+    "query": "sunglasses",
+    "relevantProductIds": [
+      "P-1038"
+    ]
+  },
+  {
+    "query": "backpack",
+    "relevantProductIds": [
+      "P-1039"
+    ]
+  },
+  {
+    "query": "carry-on suitcase",
+    "relevantProductIds": [
+      "P-1040"
+    ]
+  },
+  {
+    "query": "pressure cooker",
+    "relevantProductIds": [
+      "P-1041"
+    ]
+  },
+  {
+    "query": "air fryer",
+    "relevantProductIds": [
+      "P-1042"
+    ]
+  },
+  {
+    "query": "stand mixer",
+    "relevantProductIds": [
+      "P-1043"
+    ]
+  },
+  {
+    "query": "nespresso",
+    "relevantProductIds": [
+      "P-1044"
+    ]
+  },
+  {
+    "query": "espresso machine",
+    "relevantProductIds": [
+      "P-1045",
+      "P-1044"
+    ]
+  },
+  {
+    "query": "blender",
+    "relevantProductIds": [
+      "P-1046"
+    ]
+  },
+  {
+    "query": "dutch oven",
+    "relevantProductIds": [
+      "P-1047"
+    ]
+  },
+  {
+    "query": "cast iron skillet",
+    "relevantProductIds": [
+      "P-1048"
+    ]
+  },
+  {
+    "query": "cordless vacuum",
+    "relevantProductIds": [
+      "P-1049"
+    ]
+  },
+  {
+    "query": "robot vacuum",
+    "relevantProductIds": [
+      "P-1050"
+    ]
+  },
+  {
+    "query": "smart bulbs",
+    "relevantProductIds": [
+      "P-1051"
+    ]
+  },
+  {
+    "query": "thermostat",
+    "relevantProductIds": [
+      "P-1052"
+    ]
+  },
+  {
+    "query": "video doorbell",
+    "relevantProductIds": [
+      "P-1053"
+    ]
+  },
+  {
+    "query": "tumbler",
+    "relevantProductIds": [
+      "P-1054"
+    ]
+  },
+  {
+    "query": "camping tent",
+    "relevantProductIds": [
+      "P-1055"
+    ]
+  },
+  {
+    "query": "water bottle",
+    "relevantProductIds": [
+      "P-1056"
+    ]
+  },
+  {
+    "query": "yoga mat",
+    "relevantProductIds": [
+      "P-1057"
+    ]
+  },
+  {
+    "query": "dumbbells",
+    "relevantProductIds": [
+      "P-1058"
+    ]
+  },
+  {
+    "query": "lego millennium falcon",
+    "relevantProductIds": [
+      "P-1060"
+    ]
+  },
+  {
+    "query": "notebook moleskine",
+    "relevantProductIds": [
+      "P-1062"
+    ]
+  },
+  {
+    "query": "HEADPHONES SONY",
+    "relevantProductIds": [
+      "P-1004"
+    ]
+  },
+  {
+    "query": "Air Fryers",
+    "relevantProductIds": [
+      "P-1042"
+    ]
+  },
+  {
+    "query": "Running Shoe",
+    "relevantProductIds": [
+      "P-1030",
+      "P-1031"
+    ]
+  },
+  {
+    "query": "laptops",
+    "relevantProductIds": [
+      "P-1009",
+      "P-1010",
+      "P-1011",
+      "P-1012"
+    ]
+  },
+  {
+    "query": "iphnoe",
+    "relevantProductIds": [
+      "P-1001"
+    ]
+  },
+  {
+    "query": "samsng galaxy",
+    "relevantProductIds": [
+      "P-1002",
+      "P-1014"
+    ]
+  },
+  {
+    "query": "headphnes",
+    "relevantProductIds": [
+      "P-1004"
+    ]
+  },
+  {
+    "query": "macbok",
+    "relevantProductIds": [
+      "P-1010"
+    ]
+  },
+  {
+    "query": "playstaton",
+    "relevantProductIds": [
+      "P-1018"
+    ]
+  },
+  {
+    "query": "vaccum cleaner",
+    "relevantProductIds": [
+      "P-1049",
+      "P-1050"
+    ]
+  },
+  {
+    "query": "espreso machine",
+    "relevantProductIds": [
+      "P-1045",
+      "P-1044"
+    ]
+  },
+  {
+    "query": "blendr",
+    "relevantProductIds": [
+      "P-1046"
+    ]
+  },
+  {
+    "query": "creme brulee candle",
+    "relevantProductIds": [
+      "P-1059"
+    ]
+  },
+  {
+    "query": "cafe bustelo",
+    "relevantProductIds": [
+      "P-1061"
+    ]
+  },
+  {
+    "query": "macb",
+    "relevantProductIds": [
+      "P-1010"
+    ]
+  },
+  {
+    "query": "nintend",
+    "relevantProductIds": [
+      "P-1019"
+    ]
+  },
+  {
+    "query": "kitchena",
+    "relevantProductIds": [
+      "P-1043"
+    ]
+  }
+]
