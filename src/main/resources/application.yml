@@ -1,0 +1,41 @@
+spring:
+  application:
+    name: claims-case-management-service
+  datasource:
+    # GAP: final DB (PostgreSQL vs SQL Server) and concrete connection strings need human input.
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    hikari:
+      # Allows startup without a reachable database; connections are made on first use.
+      initialization-fail-timeout: -1
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: none
+  kafka:
+    # GAP: Kafka vs RabbitMQ undecided (outbox publisher not implemented).
+    bootstrap-servers: ${BROKER_BOOTSTRAP_SERVERS:}
+  data:
+    redis:
+      host: ${REDIS_HOST:}
+      port: ${REDIS_PORT:6379}
+      password: ${REDIS_PASSWORD:}
+
+server:
+  port: ${SERVER_PORT:8080}
+
+management:
+  tracing:
+    sampling:
+      probability: ${OTEL_TRACE_SAMPLING:1.0}
+
+# External service placeholders (no client logic implemented).
+claims:
+  external:
+    policy-url: ${POLICY_SERVICE_URL:}
+    customer-url: ${CUSTOMER_SERVICE_URL:}
+    document-url: ${DOCUMENT_SERVICE_URL:}
+    notification-url: ${NOTIFICATION_SERVICE_URL:}
+    payment-url: ${PAYMENT_SERVICE_URL:}
+    rules-engine-url: ${RULES_ENGINE_URL:}
